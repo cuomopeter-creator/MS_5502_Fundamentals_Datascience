@@ -1,3 +1,6 @@
+Auto-report, upload a data file and an LLM will create a pdf report of the data
+
+
 <img width="1245" height="777" alt="image" src="https://github.com/user-attachments/assets/145e9efc-5258-41e5-8fe3-240527f8eb34" />
 
 
